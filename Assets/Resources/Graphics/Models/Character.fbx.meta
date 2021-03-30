@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: f5e56bfc694308f4da717b17ab033dd1
+timeCreated: 1603957011
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Chest
+    100004: Head
+    100006: Head_end
+    100008: LeftFoot
+    100010: LeftHand
+    100012: LeftHand_end
+    100014: LeftLowerArm
+    100016: LeftShin
+    100018: LeftShoulder
+    100020: LeftThigh
+    100022: LeftToe
+    100024: LeftToe_end
+    100026: LeftUpperArm
+    100028: LeftWrist
+    100030: LittleSamuraiArmature
+    100032: LittleSamuraiMesh
+    100034: LowSpine
+    100036: Neck
+    100038: Pelvis
+    100040: RightFoot
+    100042: RightHand
+    100044: RightHand_end
+    100046: RightLowerArm
+    100048: RightShin
+    100050: RightShoulder
+    100052: RightThigh
+    100054: RightToe
+    100056: RightToe_end
+    100058: RightUpperArm
+    100060: RightWrist
+    100062: Spine
+    100064: Sphere
+    400000: //RootNode
+    400002: Chest
+    400004: Head
+    400006: Head_end
+    400008: LeftFoot
+    400010: LeftHand
+    400012: LeftHand_end
+    400014: LeftLowerArm
+    400016: LeftShin
+    400018: LeftShoulder
+    400020: LeftThigh
+    400022: LeftToe
+    400024: LeftToe_end
+    400026: LeftUpperArm
+    400028: LeftWrist
+    400030: LittleSamuraiArmature
+    400032: LittleSamuraiMesh
+    400034: LowSpine
+    400036: Neck
+    400038: Pelvis
+    400040: RightFoot
+    400042: RightHand
+    400044: RightHand_end
+    400046: RightLowerArm
+    400048: RightShin
+    400050: RightShoulder
+    400052: RightThigh
+    400054: RightToe
+    400056: RightToe_end
+    400058: RightUpperArm
+    400060: RightWrist
+    400062: Spine
+    400064: Sphere
+    2300000: LittleSamuraiMesh
+    2300002: Sphere
+    3300000: LittleSamuraiMesh
+    3300002: Sphere
+    4300000: LittleSamuraiMesh
+    4300002: Sphere
+    7400000: LittleSamuraiArmature|LittleSamuraiArmatureAction.001
+    7400002: LittleSamuraiArmature|LittleSamuraiArmatureAction.002
+    9500000: //RootNode
+    13700000: LittleSamuraiMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
