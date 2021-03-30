@@ -58,3 +58,4 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/LittleSamurais_Data/output_log.txt
